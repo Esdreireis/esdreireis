@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Esdrei... and I'm a ..., from Portugal...</p>
+<p align="left">My name is Esdrei... and I'm a dev from Portugal</p>
 
 ###
 
